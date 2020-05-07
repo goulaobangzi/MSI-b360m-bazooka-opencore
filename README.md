@@ -3,7 +3,7 @@
 ⚠️ Please Read the whole readme file for better understanding. Also I will share some tips and tricks.
 
 My Hardware:
-- CPU: Intel i5 8400
+- CPU: Intel i5 8400 & 8600 (all processor without a graphic chip should work as well)
 - GPU: Sapphire Radeon RX 580 4GB
 - Motherboard: MSI b360m bazooka motherboard
 
