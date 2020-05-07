@@ -1,4 +1,4 @@
-#Hackintosh Mojave Installation Guide for MSI b360m bazooka motherboard & opencore EFI Folder
+#Hackintosh Catalina 10.15.4 (19E266) Installation Guide for MSI b360m bazooka motherboard & opencore EFI Folder
 
 ⚠️ Please Read the whole readme file for better understanding. Also I will share some tips and tricks.
 
