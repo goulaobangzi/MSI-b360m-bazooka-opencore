@@ -18,4 +18,5 @@ What's Working?
 - 4K 60hz supported on HDMI 2.0 and DP 1.2
 
 Add Native DisplayBrightness to use F1 & F2 to controll brightness on MHL supported Monitor
+
 Use SoundSource to Adjust volume on DP port
