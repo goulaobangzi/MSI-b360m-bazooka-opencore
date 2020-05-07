@@ -2,9 +2,12 @@
 
 ⚠️ Please Read the whole readme file for better understanding. Also I will share some tips and tricks.
 
-My Hardware
+My Hardware:
+
 CPU: Intel i5 8400
+
 GPU: Sapphire Radeon RX 580 4GB
+
 Motherboard: MSI b360m bazooka motherboard
 
 
