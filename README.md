@@ -23,10 +23,10 @@ Additional information
 
 
 bios setting：
--Load Optimized Defaults (optional)
--If your CPU supports VT-d, disable it 
--If your system has CFG-Lock, disable it
--Secure Boot Mode, disable it 
--If your system has IO Serial Port, disable it 
--Set XHCI Handoff to Enabled 
--Save & exit
+- Load Optimized Defaults (optional)
+- If your CPU supports VT-d, disable it 
+- If your system has CFG-Lock, disable it
+- Secure Boot Mode, disable it 
+- If your system has IO Serial Port, disable it 
+- Set XHCI Handoff to Enabled 
+- Save & exit
