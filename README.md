@@ -20,3 +20,13 @@ What's Working?
 Additional information 
 - Add Native DisplayBrightness to use F1 & F2 to controll brightness on MHL supported Monitor
 - Use SoundSource to Adjust volume on DP port
+
+
+bios setting：
+-Load Optimized Defaults (optional)
+-If your CPU supports VT-d, disable it 
+-If your system has CFG-Lock, disable it
+-Secure Boot Mode, disable it 
+-If your system has IO Serial Port, disable it 
+-Set XHCI Handoff to Enabled 
+-Save & exit
